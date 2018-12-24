@@ -1,0 +1,30 @@
+.mfp-hide {
+    display: none!important;
+}
+
+.button {
+    padding: 20px 40px;
+    border-color: #f3f3f3;
+    font-size: 17px;
+    font-size: 1.7rem;
+    font-family: "museo-sans", Arial, Verdana;
+    font-weight: 500;
+    margin-top: 40px;
+    display: inline-block;
+}
+.button .fa {
+    margin-left: 20px;
+}
+.button:hover {
+    background-color: rgba(0,0,0,0.7);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+}
+.content {
+  text-align: center;
+}
